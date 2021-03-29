@@ -14,6 +14,11 @@ class BancPuissance(tk.Frame):
         
         self.createMenuBar(window)
         self.createButtons()
+        self.createRecordList()
+
+    def createRecordList():
+
+        
     
     def createButtons(self):
         
